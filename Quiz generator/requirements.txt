@@ -1,0 +1,5 @@
+google-generativeai==0.4.1
+streamlit ==1.28.0
+plotly
+streamlit_extras
+ollama
