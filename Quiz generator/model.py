@@ -4,7 +4,7 @@ import ollama
 import os
 from google import genai
 
-client = genai.Client(api_key="AIzaSyCpscdimQVPc7e_cE0RYiw4eM10Be15Q8Y")
+client = genai.Client(api_key="")
 
 
 def init_llama():
